@@ -1,7 +1,7 @@
 # My Useful Resources
 
 ## From Coding Bootcamp
-[JavaScript WorkBook] (https://javascript-workbook.netlify.com/1)
+[JavaScript WorkBook](https://javascript-workbook.netlify.com/1)
 
 
 ## Articles
