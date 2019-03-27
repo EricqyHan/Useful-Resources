@@ -15,3 +15,4 @@ The *git mv* and *git rm* commands move and remove files that are being tracked 
 
 The *git push* and *git pull* commands are used to synchronize commits with Git repositories on other computers.
 
+The *git init* creates a new git repo. It can be used to convert an existingm, unversioned project to a Git repo or initialize a newm empty repo. 
