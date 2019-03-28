@@ -3,6 +3,9 @@
 ## From Coding Bootcamp
 [JavaScript WorkBook](https://javascript-workbook.netlify.com/1)
 
+## For VS Code 
+[VS Code Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+
 
 ## Articles
 ### $ ego | less
