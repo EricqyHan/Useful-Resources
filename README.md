@@ -17,3 +17,5 @@
 ## Hackernoon
 [The Best Whiteboard Interview Advice I ever Received](https://hackernoon.com/the-best-whiteboard-interview-advice-i-ever-received-3ebbfa72e4a)
 
+## Shell stuff 
+[Website to explain shell commands](https://explainshell.com/)
