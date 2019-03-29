@@ -25,6 +25,7 @@
 [Road To React](https://roadtoreact.com/) Website with resources on React
 [HTTP2](https://kinsta.com/learn/what-is-http2/)
 [HTTP Explained By Carrier Pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
+[Cheat Sheet](https://htmlcheatsheet.com/) Cheat Sheet for HTML, CSS, JS, and Much More!
 
 ## Development Tools
 [API Resources](https://public-apis.xyz/category/security/5c4842cd78baa30b8b7e549e)
