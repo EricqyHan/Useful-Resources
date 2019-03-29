@@ -19,3 +19,6 @@
 
 ## Shell stuff 
 [Website to explain shell commands](https://explainshell.com/)
+
+## Git Stuff 
+[Git Command Explorer - Website to find the right git command](https://gitexplorer.com/)
