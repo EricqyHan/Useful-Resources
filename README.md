@@ -23,8 +23,11 @@
 
 ## Learning stuff
 [Road To React](https://roadtoreact.com/) Website with resources on React
+
 [HTTP2](https://kinsta.com/learn/what-is-http2/)
+
 [HTTP Explained By Carrier Pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
+
 [Cheat Sheet](https://htmlcheatsheet.com/) Cheat Sheet for HTML, CSS, JS, and Much More!
 
 ## Development Tools
