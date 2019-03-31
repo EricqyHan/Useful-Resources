@@ -41,3 +41,7 @@
 
 [UI Kit](https://www.invisionapp.com/inside-design/design-resources/design-system-dashboard-ui-kit/) For Sleek Dashboards
 
+## JSON
+[ECMA-404 Standards JSON](http://www.ecma-international.org/flat/publications/files/ECMA-ST/ECMA-404.pdf)
+[JSON LINt](https://jsonlint.com/)
+
