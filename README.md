@@ -45,3 +45,10 @@
 [ECMA-404 Standards JSON](http://www.ecma-international.org/flat/publications/files/ECMA-ST/ECMA-404.pdf)
 [JSON LINt](https://jsonlint.com/)
 
+
+## Data Science & Data Engineer 
+[Data Science](https://medium.com/@SeattleDataGuy/learning-data-science-our-favorite-resources-to-learn-data-science-from-free-to-not-47beb6424de1)
+
+[DataEngineer](https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b)
+
+
