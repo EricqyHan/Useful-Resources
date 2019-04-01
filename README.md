@@ -37,6 +37,8 @@
 
 [Charts Factory](https://chartsfactory.com/) Charts 
 
+## Other Useful Resources(https://github.com/8483/notes)
+
 [https://sheety.co/](Turn any google sheet into an API)
 
 [UI Kit](https://www.invisionapp.com/inside-design/design-resources/design-system-dashboard-ui-kit/) For Sleek Dashboards
