@@ -6,6 +6,8 @@
 ## For VS Code 
 [VS Code Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 
+## Websites
+[Front-End Web Dev Help](https://alligator.io/)
 
 ## Articles
 ### $ ego | less
