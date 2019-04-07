@@ -53,4 +53,8 @@
 
 [DataEngineer](https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b)
 
+## Youtube Channels
+[Mike Dane Youtube Channel](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw/videos)
+[Mike Dane Personal Site](https://www.mikedane.com/)
+
 
