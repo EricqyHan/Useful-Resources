@@ -1,5 +1,8 @@
 # My Useful Resources
 
+## Books
+[Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+
 ## From Coding Bootcamp
 [JavaScript WorkBook](https://javascript-workbook.netlify.com/1)
 
@@ -39,7 +42,8 @@
 
 [Charts Factory](https://chartsfactory.com/) Charts 
 
-## Other Useful Resources(https://github.com/8483/notes)
+## Other Useful Resources
+https://github.com/8483/notes)
 
 [https://sheety.co/](Turn any google sheet into an API)
 
