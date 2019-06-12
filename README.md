@@ -3,13 +3,24 @@
 # Interview Questions
 
 [Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+[Master JavaScript Interview](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 
+## API Resources
+[API Marketplace](https://rapidapi.com/?utm_source=mashape&utm_medium=301)
 # Coding in Javascript
 
 [DigitalOcean-JavaScript](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
 
 ## JavaScript Resources
 [Jonas' Resources for Building Beautiful Websites With HTML, CSS, And JavaScript](http://codingheroes.io/resources/)
+[You Might Not Need JQuery](http://youmightnotneedjquery.com/)
+[Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+[Web Dev Resources](https://inspiredwebdev.com/)
+
+## Portfolio Resources
+
+[Scott Renz Portfolio](https://scotrenz.github.io/)
+[Landing Page Resources](https://www.wordstream.com/blog/ws/2015/06/15/landing-page-inspiration)
 
 ## Books
 
