@@ -8,6 +8,9 @@
 
 [DigitalOcean-JavaScript](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
 
+## JavaScript Resources
+[Jonas' Resources for Building Beautiful Websites With HTML, CSS, And JavaScript](http://codingheroes.io/resources/)
+
 ## Books
 
 [Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
